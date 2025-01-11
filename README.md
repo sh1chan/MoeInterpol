@@ -1,4 +1,4 @@
-# MoeInterpol
+# Issue Tracker: Project MoeInterpol
 Yet another Telegram Stats bot (`status=Fail`)
 - Telegram
   - [x] Channel: https://t.me/MoeInterpol
