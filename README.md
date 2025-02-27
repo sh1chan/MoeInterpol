@@ -1,4 +1,4 @@
-<img style="align: center" src="./_readme/logo.png" />
+<img style="align: center" src="./_readme/logo.png" width=300 height=300 />
 
 Yet another Telegram Stats bot (`status=Fail`)
 - Telegram
