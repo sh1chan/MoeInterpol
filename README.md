@@ -7,6 +7,6 @@ Yet another Telegram Stats bot (`status=Fail`)
   - [x] Channel: https://t.me/MoeInterpol
   - [x] Bot: https://t.me/MoeInterpolRobot
 
-- Logo
+- Logo (`X: -44`)
   - Project: https://github.com/nulla2011/bluearchive-logo
   - Feature: https://github.com/nulla2011/bluearchive-logo/pull/12
